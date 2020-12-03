@@ -3,8 +3,8 @@
     <head>
      <title>2TIW Devops - Calculator</title>
      <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-     <link rel="stylesheet" href="assets/css/style.css">
-     <link rel="test.style.css" href="assets/css/test.style.css">
+     <link rel="stylesheet" href="assets/css/production.style.css">
+     <link rel="stylesheet" href="assets/css/test.style.css">
     </head>
     <body>
     <h1>2TIW DevOps - Calculator</h1><hr/>
